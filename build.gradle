@@ -24,7 +24,7 @@ sourceSets {
 }
 
 teavm.js {
-    addedToWebApp = true;
+    addedToWebApp = false;
     mainClass = "net.lax1dude.eaglercraft.Client"
     outputDir = file("web");
     targetFileName = "app.js";
