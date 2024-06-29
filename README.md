@@ -21,7 +21,7 @@ The textures are compiled into `resources.mc` using [laxdude](https://github.com
 As of right now there is no system to compile an offline download, so you will have to manually copy and paste the javascript from `web/js/app.js` into the HTML file, for the `resources.mc` just encode the file using [Base64](https://www.base64encode.org/) and paste it into the assets div.
 
 # Multiplayer
-Steps to setup a multiplayer server:
+
 
 1. Make sure have to have Java 8 (or higher) installed.
 2. Download the [Alpha.jar](https://github.com/PeytonPlayz595/Alpha-v1.2.6/blob/main/minecraft_server/Alpha.jar)
