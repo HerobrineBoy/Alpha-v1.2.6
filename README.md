@@ -1,6 +1,6 @@
 # Minecraft Alpha-v1.2.6
 
-This is based off of real Minecraft Alpha v1.2.6, the decompiled source code has been ported to TeaVM with the goal of being as close to the real Alpha v1.2.6 as possible. Worlds and settings are saved to your browsers local storage using IndexedDB, worlds are then compressed using jzlib's `GZIP`, existing uncompressed worlds will be loaded uncompressed and will then be compressed when the game writes to the file.
+This is based off ofreal Minecraft Alpha v1.2.6, the decompiled source code has been ported to TeaVM with the goal of being as close to the real Alpha v1.2.6 as possible. Worlds and settings are saved to your browsers local storage using IndexedDB, worlds are then compressed using jzlib's `GZIP`, existing uncompressed worlds will be loaded uncompressed and will then be compressed when the game writes to the file.
 
 ![h12mgp8oidpc1](https://github.com/PeytonPlayz595/Alpha-v1.2.6/assets/106421860/324a94c1-468f-4907-9127-64bdf12906c8)
 
